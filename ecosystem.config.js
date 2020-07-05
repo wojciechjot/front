@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    script: './node_modules/nuxt/bin/nuxt-start',
+    script: './node_modules/nuxt-start/bin/nuxt-start',
     watch: '.'
   }],
 
