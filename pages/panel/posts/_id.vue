@@ -4,7 +4,7 @@
 			ref="form"
 			v-model="valid"
 			lazy-validation
-			class="col-12"
+			class="form-wrapper__form"
 		>
 			<h1 class="title">Edytuj post</h1>
 
